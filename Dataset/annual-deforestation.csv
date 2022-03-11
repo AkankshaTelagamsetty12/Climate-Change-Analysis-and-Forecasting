@@ -1,0 +1,496 @@
+Entity,Code,Year,Deforestation
+Africa,,1990,4096000
+Africa,,2000,4314000
+Africa,,2010,4444000
+Africa,,2015,4414000
+Algeria,DZA,1990,14800
+Algeria,DZA,2000,14500
+Algeria,DZA,2010,1400
+Algeria,DZA,2015,5400
+Argentina,ARG,1990,213600
+Argentina,ARG,2000,327400
+Argentina,ARG,2010,242400
+Argentina,ARG,2015,134800
+Aruba,ABW,1990,0
+Aruba,ABW,2000,0
+Aruba,ABW,2010,0
+Aruba,ABW,2015,0
+Asia,,1990,4170000
+Asia,,2000,2684000
+Asia,,2010,2925000
+Asia,,2015,2235000
+Australia,AUS,1990,626200
+Australia,AUS,2000,632300
+Australia,AUS,2010,416840
+Austria,AUT,1990,3450
+Austria,AUT,2000,7790
+Austria,AUT,2010,5800
+Austria,AUT,2015,5810
+Azerbaijan,AZE,2010,81640
+Azerbaijan,AZE,2015,86360
+Bahrain,BHR,1990,10
+Bahrain,BHR,2000,10
+Bahrain,BHR,2010,0
+Bahrain,BHR,2015,0
+Bangladesh,BGD,1990,7500
+Bangladesh,BGD,2000,3200
+Bangladesh,BGD,2010,18190
+Bangladesh,BGD,2015,0
+Belarus,BLR,2000,7200
+Belarus,BLR,2010,4100
+Belarus,BLR,2015,3500
+Belgium,BEL,2010,1810
+Belgium,BEL,2015,1500
+Belize,BLZ,1990,14070
+Belize,BLZ,2000,6790
+Belize,BLZ,2010,11710
+Belize,BLZ,2015,11160
+Bhutan,BTN,1990,0
+Bhutan,BTN,2000,190
+Bhutan,BTN,2010,340
+Bhutan,BTN,2015,430
+Bolivia,BOL,1990,270330
+Bolivia,BOL,2000,200050
+Bolivia,BOL,2010,190690
+Bolivia,BOL,2015,242540
+Brazil,BRA,1990,4254800
+Brazil,BRA,2000,5129300
+Brazil,BRA,2010,1867800
+Brazil,BRA,2015,1695700
+Bulgaria,BGR,1990,0
+Bulgaria,BGR,2000,0
+Bulgaria,BGR,2010,0
+Bulgaria,BGR,2015,0
+Burundi,BDI,1990,8250
+Burundi,BDI,2000,0
+Burundi,BDI,2010,0
+Burundi,BDI,2015,0
+Cameroon,CMR,1990,90550
+Cameroon,CMR,2000,71700
+Cameroon,CMR,2010,58000
+Cameroon,CMR,2015,58000
+Canada,CAN,1990,54420
+Canada,CAN,2000,50450
+Canada,CAN,2010,41300
+Canada,CAN,2015,37520
+Cape Verde,CPV,2000,2840
+Cape Verde,CPV,2010,1900
+Cape Verde,CPV,2015,820
+Cayman Islands,CYM,1990,20
+Cayman Islands,CYM,2000,20
+Cayman Islands,CYM,2010,0
+Cayman Islands,CYM,2015,0
+Central African Republic,CAF,1990,30000
+Central African Republic,CAF,2000,30000
+Central African Republic,CAF,2010,30000
+Central African Republic,CAF,2015,30000
+Chile,CHL,1990,10110
+Chile,CHL,2000,14210
+Chile,CHL,2010,11270
+Chile,CHL,2015,9400
+China,CHN,1990,327540
+China,CHN,2000,312760
+China,CHN,2010,329970
+China,CHN,2015,133200
+Colombia,COL,1990,229130
+Colombia,COL,2000,214330
+Colombia,COL,2010,143170
+Colombia,COL,2015,199230
+Congo,COG,1990,12000
+Congo,COG,2000,12000
+Congo,COG,2010,12000
+Congo,COG,2015,13800
+Costa Rica,CRI,1990,9790
+Costa Rica,CRI,2000,2650
+Costa Rica,CRI,2010,0
+Costa Rica,CRI,2015,0
+Croatia,HRV,2000,330
+Croatia,HRV,2010,90
+Croatia,HRV,2015,50
+Cuba,CUB,1990,0
+Cuba,CUB,2000,0
+Cuba,CUB,2010,0
+Cuba,CUB,2015,0
+Denmark,DNK,1990,30
+Denmark,DNK,2000,180
+Denmark,DNK,2010,260
+Denmark,DNK,2015,620
+Djibouti,DJI,1990,0
+Djibouti,DJI,2000,0
+Djibouti,DJI,2010,0
+Djibouti,DJI,2015,160
+Dominican Republic,DOM,1990,620
+Dominican Republic,DOM,2000,250
+Dominican Republic,DOM,2010,18490
+Ecuador,ECU,1990,129940
+Ecuador,ECU,2000,105080
+Ecuador,ECU,2010,96130
+Ecuador,ECU,2015,87220
+El Salvador,SLV,1990,4500
+El Salvador,SLV,2000,4500
+El Salvador,SLV,2010,4500
+El Salvador,SLV,2015,4500
+Equatorial Guinea,GNQ,2000,8360
+Equatorial Guinea,GNQ,2010,8360
+Equatorial Guinea,GNQ,2015,8360
+Estonia,EST,2000,6340
+Estonia,EST,2010,11230
+Estonia,EST,2015,5010
+Ethiopia,ETH,2000,92000
+Ethiopia,ETH,2010,92000
+Ethiopia,ETH,2015,92000
+Europe,,1990,88000
+Europe,,2000,92000
+Europe,,2010,201000
+Europe,,2015,69000
+Falkland Islands,FLK,1990,0
+Falkland Islands,FLK,2000,0
+Falkland Islands,FLK,2010,0
+Falkland Islands,FLK,2015,0
+Faroe Islands,,1990,0
+Faroe Islands,,2000,0
+Faroe Islands,,2010,0
+Faroe Islands,,2015,0
+Finland,FIN,1990,12180
+Finland,FIN,2000,2090
+Finland,FIN,2010,540
+French Guyana,,1990,5560
+French Guyana,,2000,5540
+French Guyana,,2010,5650
+French Guyana,,2015,5780
+Gabon,GAB,1990,10240
+Gabon,GAB,2000,14740
+Gabon,GAB,2010,19250
+Gabon,GAB,2015,19250
+Georgia,GEO,2000,0
+Georgia,GEO,2010,0
+Georgia,GEO,2015,0
+Germany,DEU,1990,6800
+Germany,DEU,2000,5830
+Germany,DEU,2010,7000
+Germany,DEU,2015,7000
+Gibraltar,GIB,1990,0
+Gibraltar,GIB,2000,0
+Gibraltar,GIB,2010,0
+Gibraltar,GIB,2015,0
+Greenland,GRL,1990,0
+Greenland,GRL,2000,0
+Greenland,GRL,2010,0
+Greenland,GRL,2015,0
+Guadeloupe,GLP,1990,250
+Guadeloupe,GLP,2000,180
+Guadeloupe,GLP,2010,260
+Guadeloupe,GLP,2015,250
+Guatemala,GTM,1990,57200
+Guatemala,GTM,2000,48660
+Guatemala,GTM,2010,27360
+Guatemala,GTM,2015,11600
+Guinea,GIN,1990,46700
+Guyana,GUY,1990,3790
+Guyana,GUY,2000,4440
+Guyana,GUY,2010,11690
+Guyana,GUY,2015,9200
+Honduras,HND,1990,23300
+Honduras,HND,2000,22810
+Honduras,HND,2010,24400
+Honduras,HND,2015,23190
+Hungary,HUN,1990,830
+Hungary,HUN,2000,1430
+Hungary,HUN,2010,1550
+Hungary,HUN,2015,3140
+Iceland,ISL,1990,0
+Iceland,ISL,2000,0
+Iceland,ISL,2010,0
+Iceland,ISL,2015,0
+India,IND,1990,384000
+India,IND,2000,629500
+India,IND,2010,668400
+India,IND,2015,668400
+Indonesia,IDN,1990,2526000
+Indonesia,IDN,2000,969000
+Indonesia,IDN,2015,650000
+Iraq,IRQ,1990,0
+Iraq,IRQ,2000,0
+Iraq,IRQ,2010,0
+Iraq,IRQ,2015,0
+Ireland,IRL,1990,620
+Ireland,IRL,2000,620
+Ireland,IRL,2010,620
+Ireland,IRL,2015,620
+Isle of Man,IMN,1990,0
+Isle of Man,IMN,2000,0
+Isle of Man,IMN,2010,0
+Isle of Man,IMN,2015,0
+Italy,ITA,2010,3690
+Jamaica,JAM,1990,890
+Jamaica,JAM,2000,680
+Jamaica,JAM,2010,620
+Jamaica,JAM,2015,540
+Kuwait,KWT,1990,0
+Kuwait,KWT,2000,0
+Kuwait,KWT,2010,0
+Kuwait,KWT,2015,0
+Kyrgyzstan,KGZ,2000,0
+Kyrgyzstan,KGZ,2010,0
+Kyrgyzstan,KGZ,2015,0
+Latvia,LVA,2000,400
+Latvia,LVA,2010,310
+Latvia,LVA,2015,360
+Liberia,LBR,1990,30260
+Liberia,LBR,2000,30260
+Liberia,LBR,2010,30260
+Liberia,LBR,2015,30260
+Liechtenstein,LIE,1990,210
+Liechtenstein,LIE,2000,210
+Liechtenstein,LIE,2010,210
+Liechtenstein,LIE,2015,210
+Lithuania,LTU,2000,140
+Lithuania,LTU,2010,140
+Lithuania,LTU,2015,140
+Madagascar,MDG,1990,70500
+Malawi,MWI,1990,42000
+Malawi,MWI,2000,42000
+Malawi,MWI,2010,42000
+Malawi,MWI,2015,42000
+Maldives,MDV,1990,0
+Maldives,MDV,2000,0
+Maldives,MDV,2010,0
+Maldives,MDV,2015,0
+Mali,MLI,1990,84000
+Mali,MLI,2000,109000
+Mali,MLI,2010,79000
+Mali,MLI,2015,0
+Martinique,MTQ,1990,80
+Martinique,MTQ,2000,140
+Martinique,MTQ,2010,160
+Martinique,MTQ,2015,160
+Mauritania,MRT,1990,37720
+Mauritania,MRT,2000,40440
+Mauritania,MRT,2010,42790
+Mauritania,MRT,2015,45380
+Mauritius,MUS,1990,10
+Mauritius,MUS,2000,360
+Mauritius,MUS,2010,100
+Mauritius,MUS,2015,120
+Mayotte,MYT,1990,370
+Mayotte,MYT,2000,210
+Mayotte,MYT,2010,60
+Mayotte,MYT,2015,60
+Mexico,MEX,1990,685810
+Mexico,MEX,2000,424850
+Mexico,MEX,2010,211610
+Mexico,MEX,2015,165820
+Moldova,MDA,2000,1800
+Moldova,MDA,2010,930
+Moldova,MDA,2015,340
+Monaco,MCO,1990,0
+Monaco,MCO,2000,0
+Monaco,MCO,2010,0
+Monaco,MCO,2015,0
+Mongolia,MNG,1990,9060
+Mongolia,MNG,2000,8250
+Mongolia,MNG,2010,1520
+Mongolia,MNG,2015,1520
+Montenegro,MNE,2010,28200
+Montenegro,MNE,2015,12000
+Morocco,MAR,1990,780
+Morocco,MAR,2000,1080
+Morocco,MAR,2010,8720
+Morocco,MAR,2015,0
+Mozambique,MOZ,1990,219000
+Mozambique,MOZ,2000,267030
+Mozambique,MOZ,2010,267030
+Mozambique,MOZ,2015,267030
+Myanmar,MMR,1990,435000
+Myanmar,MMR,2000,370150
+Myanmar,MMR,2010,309870
+Myanmar,MMR,2015,293920
+Nauru,NRU,1990,0
+Nauru,NRU,2000,0
+Nauru,NRU,2010,0
+Nauru,NRU,2015,0
+Nepal,NPL,1990,120
+Nepal,NPL,2000,1870
+Nepal,NPL,2010,0
+Nepal,NPL,2015,0
+Netherlands,NLD,1990,1140
+Netherlands,NLD,2000,2600
+Netherlands,NLD,2010,4520
+Netherlands,NLD,2015,2190
+New Zealand,NZL,1990,15480
+New Zealand,NZL,2000,18030
+New Zealand,NZL,2010,8610
+New Zealand,NZL,2015,6580
+Nicaragua,NIC,1990,100200
+Nicaragua,NIC,2000,122490
+Nicaragua,NIC,2010,61150
+Nicaragua,NIC,2015,105030
+Niger,NER,1990,64190
+Niger,NER,2000,14920
+Niger,NER,2010,14920
+Niger,NER,2015,14920
+Nigeria,NGA,1990,163310
+Nigeria,NGA,2000,163310
+Nigeria,NGA,2010,163310
+Nigeria,NGA,2015,163310
+North Korea,PRK,1990,47700
+North Korea,PRK,2000,23190
+North Korea,PRK,2010,23190
+North Korea,PRK,2015,23190
+Norway,NOR,1990,4920
+Norway,NOR,2000,6500
+Norway,NOR,2010,5980
+Norway,NOR,2015,5820
+Oceania,,1990,655000
+Oceania,,2000,662000
+Oceania,,2010,458000
+Oceania,,2015,42000
+Panama,PAN,1990,18950
+Panama,PAN,2000,13730
+Panama,PAN,2010,12520
+Panama,PAN,2015,12490
+Papua New Guinea,PNG,1990,12170
+Papua New Guinea,PNG,2000,9910
+Papua New Guinea,PNG,2010,30900
+Papua New Guinea,PNG,2015,33530
+Paraguay,PRY,1990,255420
+Paraguay,PRY,2000,342140
+Paraguay,PRY,2010,414250
+Paraguay,PRY,2015,279340
+Peru,PER,1990,160280
+Peru,PER,2000,150280
+Peru,PER,2010,188500
+Peru,PER,2015,179090
+Poland,POL,1990,510
+Poland,POL,2000,580
+Poland,POL,2010,620
+Poland,POL,2015,770
+Portugal,PRT,2010,39600
+Qatar,QAT,1990,0
+Qatar,QAT,2000,0
+Qatar,QAT,2010,0
+Qatar,QAT,2015,0
+Romania,ROU,2000,180
+Romania,ROU,2010,110
+Romania,ROU,2015,20
+Russia,RUS,2000,0
+Russia,RUS,2010,41030
+Russia,RUS,2015,0
+San Marino,SMR,1990,0
+San Marino,SMR,2000,0
+San Marino,SMR,2010,0
+San Marino,SMR,2015,0
+Sao Tome and Principe,STP,1990,30
+Sao Tome and Principe,STP,2000,30
+Sao Tome and Principe,STP,2010,620
+Sao Tome and Principe,STP,2015,620
+Senegal,SEN,2010,51000
+Senegal,SEN,2015,51000
+Serbia,SRB,2010,90
+Serbia,SRB,2015,40
+Singapore,SGP,1990,280
+Singapore,SGP,2000,140
+Singapore,SGP,2010,300
+Singapore,SGP,2015,240
+Slovenia,SVN,2000,380
+Slovenia,SVN,2010,300
+Slovenia,SVN,2015,2030
+Somalia,SOM,1990,76750
+Somalia,SOM,2000,76750
+Somalia,SOM,2010,76750
+Somalia,SOM,2015,76750
+South Africa,ZAF,1990,399000
+South Africa,ZAF,2000,399000
+South Africa,ZAF,2010,199000
+South Africa,ZAF,2015,199000
+South America,,1990,5837000
+South America,,2000,6667000
+South America,,2010,3354000
+South America,,2015,2953000
+South Korea,KOR,1990,7500
+South Korea,KOR,2000,8900
+South Korea,KOR,2010,10000
+South Korea,KOR,2015,10000
+Spain,ESP,2000,5700
+Spain,ESP,2010,1980
+Spain,ESP,2015,3740
+Sudan,SDN,2015,264000
+Suriname,SUR,1990,3680
+Suriname,SUR,2000,4110
+Suriname,SUR,2010,9860
+Suriname,SUR,2015,11650
+Sweden,SWE,1990,11490
+Sweden,SWE,2000,20820
+Sweden,SWE,2010,38150
+Sweden,SWE,2015,13050
+Switzerland,CHE,1990,1160
+Switzerland,CHE,2000,1050
+Switzerland,CHE,2010,1340
+Switzerland,CHE,2015,1340
+Syria,SYR,1990,77250
+Syria,SYR,2000,46180
+Syria,SYR,2010,11940
+Tanzania,TZA,1990,400000
+Tanzania,TZA,2000,400000
+Tanzania,TZA,2010,372000
+Tanzania,TZA,2015,474000
+Thailand,THA,1990,63000
+Thailand,THA,2000,18000
+Thailand,THA,2010,94400
+Thailand,THA,2015,37600
+Togo,TGO,1990,10320
+Togo,TGO,2000,4460
+Togo,TGO,2010,4960
+Togo,TGO,2015,4960
+Tokelau,TKL,1990,0
+Tokelau,TKL,2000,0
+Tokelau,TKL,2010,0
+Tokelau,TKL,2015,0
+Tunisia,TUN,1990,4320
+Tunisia,TUN,2000,4340
+Tunisia,TUN,2010,1420
+Tunisia,TUN,2015,570
+Turkey,TUR,1990,2220
+Turkey,TUR,2000,1380
+Turkey,TUR,2010,1030
+Turkey,TUR,2015,1170
+Uganda,UGA,1990,51090
+Uganda,UGA,2000,51090
+Uganda,UGA,2010,51090
+Uganda,UGA,2015,51090
+Ukraine,UKR,2000,1030
+Ukraine,UKR,2010,400
+Ukraine,UKR,2015,100
+United Kingdom,GBR,2000,200
+United Kingdom,GBR,2010,500
+United States,USA,1990,0
+United States,USA,2000,0
+United States,USA,2010,0
+Uruguay,URY,2000,660
+Uruguay,URY,2010,1830
+Uzbekistan,UZB,2000,5000
+Uzbekistan,UZB,2010,1040
+Uzbekistan,UZB,2015,14150
+Vatican,VAT,1990,0
+Vatican,VAT,2000,0
+Vatican,VAT,2010,0
+Vatican,VAT,2015,0
+Venezuela,VEN,1990,303850
+Venezuela,VEN,2000,183990
+Venezuela,VEN,2010,182270
+Venezuela,VEN,2015,108290
+Vietnam,VNM,1990,0
+Vietnam,VNM,2000,0
+Vietnam,VNM,2010,25860
+Vietnam,VNM,2015,1590
+World,OWID_WRL,1990,15818000
+World,OWID_WRL,2000,15117000
+World,OWID_WRL,2010,11801000
+World,OWID_WRL,2015,10150000
+Zambia,ZMB,2000,36250
+Zambia,ZMB,2010,189680
+Zambia,ZMB,2015,189710
+Zimbabwe,ZWE,1990,46070
+Zimbabwe,ZWE,2000,46070
+Zimbabwe,ZWE,2010,46070
+Zimbabwe,ZWE,2015,46070
